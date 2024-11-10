@@ -1,6 +1,6 @@
 ![Banner](https://your-banner-image-url.com) <!-- Replace with your banner image URL -->
 
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Aiman!
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast on a journey to mastering the art of APIs and automation. 🚀
 
