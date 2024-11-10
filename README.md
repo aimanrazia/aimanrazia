@@ -11,6 +11,6 @@ aimanrazia/aimanrazia is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/07470d75-f6e0-4c3c-91a1-4d7bcf9a94c8" alt="Postman - Postman API Fundamentals Student Expert - 2024-08-27" style="width: 300px;" />
+    <img src="https://github.com/user-attachments/assets/07470d75-f6e0-4c3c-91a1-4d7bcf9a94c8" alt="Postman - Postman API Fundamentals Student Expert - 2024-08-27" width="100" />
 </div>
 
